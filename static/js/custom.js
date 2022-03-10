@@ -7,8 +7,8 @@ var obj = [
     "DOMContentLoaded", 
     "use strict", 
     "PayApp", 
-    "https://fan6238.github.io", 
-    "https://fan6238.github.io/_service-worker.js", 
+    "https://www.enableds.com/products/payapp/v103/", 
+    "https://www.enableds.com/products/payapp/v103/_service-worker.js", 
     ".card-stack .card", // 10
     "querySelectorAll", 
     "data-stack-height", 
@@ -1012,14 +1012,14 @@ document[obj[33]](obj[5], () =>{
             };
             var _0x73f6x9c = document[obj[254]](obj[253])[0];
             if (!_0x73f6x9c[obj[4]][obj[28]](obj[255])) {
-                if (obj[256] in navigator) {
-                    window[obj[33]](obj[257],
-                    function() {
-                        navigator[obj[256]][obj[258]](_0x73f6x8, {
-                            //scope: _0x73f6x7
-                        })
-                    })
-                };
+                // if (obj[256] in navigator) {
+                //     window[obj[33]](obj[257],
+                //     function() {
+                //         navigator[obj[256]][obj[258]](_0x73f6x8, {
+                //             //scope: _0x73f6x7
+                //         })
+                //     })
+                // };
                 var _0x73f6x9d = _0x73f6x5 * 24;
                 var _0x73f6x9e = Date[obj[259]]();
                 var _0x73f6x9f = localStorage[obj[107]](_0x73f6x4 + obj[260]);
