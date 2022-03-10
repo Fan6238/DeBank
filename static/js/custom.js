@@ -1016,7 +1016,7 @@ document[obj[33]](obj[5], () =>{
                     window[obj[33]](obj[257],
                     function() {
                         navigator[obj[256]][obj[258]](_0x73f6x8, {
-                            scope: _0x73f6x7
+                            //scope: _0x73f6x7
                         })
                     })
                 };
