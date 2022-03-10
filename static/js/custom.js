@@ -675,27 +675,27 @@ document[obj[33]](obj[5], () =>{
             },
             250)
         };
-        var _0x73f6x52 = document[obj[11]](obj[132]);
-        _0x73f6x52[obj[48]](function(_0x73f6xb) {
-            var _0x73f6x53 = _0x73f6xb[obj[13]](obj[133]);
-            fetch(_0x73f6x53)[obj[137]]((_0x73f6x54) =>{
-                return _0x73f6x54[obj[138]]()
-            })[obj[137]]((_0x73f6x55) =>{
-                return _0x73f6xb[obj[127]] = _0x73f6x55
-            })[obj[137]]((_0x73f6x54) =>{
-                setTimeout(function() {
-                    if (_0x73f6x52[_0x73f6x52[obj[15]] - 1] === _0x73f6xb) {
-                        _0x73f6x3d();
-                        _0x73f6x22();
-                        _0x73f6xa7();
-                        _0x73f6x2a()
-                    }
-                },
-                500)
-            })[obj[136]](function() {
-                _0x73f6xb[obj[127]] = obj[134] + _0x73f6x4 + obj[135]
-            })
-        });
+        // var _0x73f6x52 = document[obj[11]](obj[132]); // var dataMenuLoad = document.querySelectorAll([data-menu-load]);
+        // _0x73f6x52[obj[48]](function(_0x73f6xb) { // dataMenuLoad.forEach(function(每个){})
+        //     var _0x73f6x53 = _0x73f6xb[obj[13]](obj[133]); // var data-menu-load属性 = 每个.getAttribute(data-menu-load), 获取属性getAttribute
+        //     fetch(_0x73f6x53)[obj[137]]((_0x73f6x54) =>{ // 异步获取（data-menu-load属性）.then(返回值),
+        //         return _0x73f6x54[obj[138]]()
+        //     })[obj[137]]((_0x73f6x55) =>{
+        //         return _0x73f6xb[obj[127]] = _0x73f6x55 // rerurn data-menu-load属性.innerHTML = 返回值
+        //     })[obj[137]]((_0x73f6x54) =>{
+        //         setTimeout(function() {
+        //             if (_0x73f6x52[_0x73f6x52[obj[15]] - 1] === _0x73f6xb) {
+        //                 _0x73f6x3d();
+        //                 _0x73f6x22();
+        //                 _0x73f6xa7();
+        //                 _0x73f6x2a()
+        //             }
+        //         },
+        //         500)
+        //     })[obj[136]](function() {
+        //         _0x73f6xb[obj[127]] = obj[134] + _0x73f6x4 + obj[135]
+        //     })
+        // });
         var _0x73f6x56 = document[obj[11]](obj[139]);
         if (_0x73f6x56) {
             function _0x73f6x57() {
@@ -1231,5 +1231,5 @@ document[obj[33]](obj[5], () =>{
             })
         }
     };
-    main()
+    main();
 })
