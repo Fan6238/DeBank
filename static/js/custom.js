@@ -9,7 +9,7 @@ var obj = [
     "PayApp", 
     "https://www.enableds.com/products/payapp/v103/", 
     "https://www.enableds.com/products/payapp/v103/_service-worker.js", 
-    ".card-stack .card", // 10
+    ".card-stack .card", 
     "querySelectorAll", 
     "data-stack-height", 
     "getAttribute", 
@@ -19,7 +19,7 @@ var obj = [
     "style", 
     "px", 
     "marginBottom", 
-    "zIndex", // 20
+    "zIndex", 
     "transform", 
     "scale(0.", 
     ")", 
@@ -29,7 +29,7 @@ var obj = [
     "card-stack-active", 
     "contains", 
     "disabled", 
-    "remove", //30
+    "remove", 
     "no-click", 
     "click", 
     "addEventListener", 
@@ -39,7 +39,7 @@ var obj = [
     "splide", 
     "getElementsByClassName", 
     ".single-slider", 
-    "mount", //40
+    "mount", 
     "#", 
     "id", 
     "loop", 
@@ -49,7 +49,7 @@ var obj = [
     "go", 
     "forEach", 
     "<", 
-    ".double-slider", //50
+    ".double-slider", 
     ".triple-slider", 
     ".quad-slider", 
     "a[href=\"#\"]", 
@@ -59,7 +59,7 @@ var obj = [
     "data-submenu", 
     " a", 
     "submenu-active", 
-    "0px", //60
+    "0px", 
     "[data-menu-active]", 
     "data-menu-active", 
     "list-group-item-active", 
@@ -332,6 +332,7 @@ setTimeout(function() {
     }
 },
 150);
+
 document[obj[33]](obj[5], () =>{
     obj[6];
     let _0x73f6x2 = true;
@@ -341,6 +342,7 @@ document[obj[33]](obj[5], () =>{
     var _0x73f6x6 = false;
     var _0x73f6x7 = obj[8];
     var _0x73f6x8 = obj[9];
+
     function main() {
         var _0x73f6xa, _0x73f6xb, _0x73f6xc, _0x73f6xd, _0x73f6xe;
         var cardAndStack = document[obj[11]](obj[10]);
@@ -1188,7 +1190,7 @@ document[obj[33]](obj[5], () =>{
                     }
                 });
                 if (!document[obj[11]](obj[309] + _0x73f6xb3[_0x73f6xa][obj[42]] + obj[314])[obj[15]] && _0x73f6xb3[_0x73f6xa][obj[315]] !== undefined) {
-                    _0x73f6xb5[obj[65]][obj[316]](_0x73f6xb6, _0x73f6xb5)
+                    // _0x73f6xb5[obj[65]][obj[316]](_0x73f6xb6, _0x73f6xb5)
                 } else {
                     setTimeout(function() {
                         var _0x73f6xb5 = document[obj[254]](obj[312])[1],
